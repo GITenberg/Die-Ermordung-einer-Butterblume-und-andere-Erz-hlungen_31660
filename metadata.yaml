@@ -1,0 +1,36 @@
+_repo: Die-Ermordung-einer-Butterblume-und-andere-Erz-hlungen_31660
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Döblin, Alfred
+    aliases:
+    - Doeblin, Alfred
+    - Deblin, A.
+    - Poot, Linke
+    - Doblin, Alfred
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '35387'
+    url: http://www.gutenberg.org/2009/agents/35387
+    wikipedia: http://de.wikipedia.org/wiki/Alfred_D%C3%B6blin
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31660'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+- !lcsh 'Short stories, German'
+- GITenberg
+tableOfContents: Die Segelfahrt -- Die Tänzerin und der Leib -- Astralia -- Mariä
+  Empfängnis -- Die Verwandlung -- Die Helferin -- Die falsche Tür -- Die Ermordung
+  einer Butterblume -- Der Ritter Blaubart -- Der Dritte -- Die Memoiren des Blasierten
+  -- Das Stiftsfräulein und der Tod.
+title: Die Ermordung einer Butterblume und andere Erzählungen
+url: http://www.gutenberg.org/ebooks/31660
